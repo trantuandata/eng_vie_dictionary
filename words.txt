@@ -1,0 +1,434 @@
+accomplish: hoàn thành
+acquire: có được
+advantage: lợi thế
+advent: sự ra đời
+along with: cùng với
+allocate: cấp phát
+alternate: luân phiên
+approach: cách tiếp cận
+appropriate: phù hợp
+aspect: khía cạnh
+associate: kết hợp
+asynchronous: bất đồng bộ
+atomic: đơn nguyên
+attempt: nỗ lực
+acyclic network: a network that does not contain any cycles
+boot: khởi động
+bounded waiting: chờ đợi giới hạn
+certain: nào đó
+characteristic: đặc tính
+circumstance: trường hợp
+coefficent: hệ số
+combine: kết hợp
+compiler: trình biên dịch
+completion: hoàn thành
+compose of: bao gồm
+computation: tính toán
+concurrent: đồng thời
+conflict: xung đột, trái ngược
+consistent: thích hợp
+constantly: liên tục
+construct: xây dựng
+contrast: đối chiếu
+contemporary: đương đại
+contribution: sự đóng góp
+coordination: sự phối hợp
+correct: sửa chữa
+correspond: tương ứng
+criteria: tiêu chuẩn
+deallocate: giải phóng
+declare: khai báo
+denominator: mẫu số
+degree: bậc, độ
+deployment: triển khai
+destination: điểm đến
+detection: phát hiện
+determine: xác định
+distinguish: phân biệt
+distance: khoảng cách
+directory: danh mục
+distinction: sự phân biệt
+distribute: phân tán
+distribution: sự phân bổ
+drawback: hạn chế
+dynamic memory allocation: cấp phát bộ nhớ động
+emergence: sự xuất hiện
+emphasize: nhấn mạnh
+entity: thực thể
+equivalent: tương đương
+excess: thặng dư
+exceed: quá
+exihibit: thể hiện
+experimental: thực nghiệm
+extensively: rộng rãi
+factor: thừa số
+factorial: giai thừa
+fetch: tìm đến
+firm: vững chắc
+follow along: làm theo (người đó làm gì, bạn làm theo giống với người đó).
+fractor: phân số
+free-hand drawing: bản phác thảo
+gcd - greatest common divisor: Ước chung lớn nhất - ucln
+gcpd - greatest common prime divisor: Ước chung số nguyên tố lớn nhất
+generate: đưa ra
+generally: thông thường
+general-purpose: đa năng
+hands-on: thực hành, thực tiễn
+hierarchy: hệ thống cấp bậc
+idle: nghỉ
+inability: ko có khả năng
+incur: gánh chịu
+indicate: biểu thị
+illusion: ảo hóa
+illustrate: minh họa
+implement: triển khai
+in which: trong đó
+indicate: biểu thị
+indispensable: cần thiết
+infrastructure: cơ sở hạ tầng
+initialization: sự khởi tạo
+instance: ví dụ
+instruction: chỉ lệnh
+intensive: đòi hỏi nhiều
+interchangeably: có thể thay thế cho nhau
+interleave: xen kẽ
+intermediate: trung gian
+intergrity: sự toàn vẹn
+interpret: thông dịch
+interrelate: có quan hệ với nhau
+invoke: gọi
+linear: tuyến tính
+made available by: được cung cấp bởi
+mainipulate: thao tác
+manipulation: thao tác
+make available to: cung cấp cho
+major: chính
+majority: phần nhiều
+means: cách thức
+metaphor: phép ẩn dụ
+migrate: dịch chuyển
+mutual exclusion: loại trừ tương hỗ
+notation: ký hiệu, phép biểu diễn
+notion: khái niệm
+numerator: tử số
+no incoming edges (no in-degree): Không có cạnh đến (để chỉ cấu trúc directed acyclic graph – dag & topological sort)
+objective: mục đích
+observe: quan sát
+obtain: có được
+operation: phép toán
+offset: khoảng cách giữa 2 điểm 
+overhead: chi phí
+ownership: quyền sở hữu
+paradigm: mô hình
+parallel: song song
+parse: phân tích cú pháp
+pattern: mô hình
+permanent: dài hạn
+period: giai đoạn
+plot: kịch bản
+polynomial: đa thức
+preemptive: ưu tiên trước
+prerequisite: điều kiện tiên quyết
+preserve: bảo tồn
+prevent: ngăn chặn
+priority: quyền ưu tiên
+primitive: đầu tiên
+prime number: số nguyên tố
+principle: nguyên tắc
+probe: thăm dò
+product: tích
+productive: năng suất
+property: tính chất, đặc tính
+provision: cung cấp
+reclaim: phục hồi
+recursive: đệ quy
+register: thanh ghi
+reduction: giảm bớt
+reflect: ánh xạ
+relatively: tương đối
+related: có liên quan
+release: giải thoát
+remainder: phần còn lại
+reorder: sắp xếp lại
+repository: kho
+representation: đại diện, biểu diễn
+reside: cư trú
+respect: phương diện
+responsiveness: khả năng đáp ứng
+result in: dẫn đến
+restrict: hạn chế
+retrieve: lấy về, truy xuất
+reusable: có thể dùng lại được
+reverse: đảo ngược
+scalability: khả năng mở rộng
+scheme: cơ chế
+sense: ý nghĩa
+simultaneously: đồng thời
+significant: quan trọng
+so-called: cái gọi là
+solve: giải quyết
+specify: xác định
+specific: riêng, cụ thể
+spin: quay
+separate: riêng biệt
+sequence: trình tự
+starvation: bỏ đói
+stack: ngăn xếp
+subset: tập hợp con
+substantial: đáng kể
+summation: phép lấy tổng
+pseudocode: code “giả” /sudo/
+take advantage of sth: tận dụng 
+take place: diễn ra
+task: tác vụ
+term: số hạng
+theorem: định lý
+throughput: thông lượng
+thus: do đó
+treat: xem xét
+typically: thông thường
+unreliable: ko đáng tin cậy
+utilization: sử dụng
+vary: thay đổi
+vary in: khác nhau về
+variety: đa dạng
+various: khác nhau
+visible: có thể nhìn thấy
+whereas: trong khi
+responsible: chịu trách nhiệm
+a significant amount: một số lượng đáng kể
+subsidiary: công ty con
+encryption: mã hóa
+capital expense: chi phí vốn
+variable expense: chi phí biến đổi
+agility: nhanh lẹ
+fairly fast/slow: khá nhanh/chậm
+DCs: data centers
+scope: phạm vi
+flexible: linh hoạt
+prohibit: cấm
+identify: định danh
+authentication: xác thực
+federate: liên hợp
+instance: ví dụ
+evaluate: đánh giá
+diagram: biểu đồ
+reveal: tiết lộ
+struggle: cố gắng, vật lộn
+procedure: thủ tục, phương thức
+mitigate: giảm nhẹ
+measure: đo lường
+reliability: độ tin cậy
+tradeoff: sự cân bằng
+prioritize: ưu tiên
+empirical: thực nghiệm, theo kinh nghiệm
+impact: tác động, va chạm
+availability: khả dụng
+archive: lưu trữ, tài liệu lưu trữ
+acceleration: sự tăng tốc
+latency: độ trễ
+unintended: ngoài ý muốn
+fractional: phân số
+authenticate: xác thực, xác nhận
+secure: bảo đảm, siết chặt
+privilege: đặc quyền, đặc ân
+main credential: thông tin đăng nhập chính
+delegate: đại diện, ủy nhiệm
+align: căn chỉnh
+respectively: tương đối
+obstacle: trở ngại
+prefix: tiền tố
+suffix: hậu tố
+reputation: danh tiếng
+distribute: phân phối
+critical data: dữ liệu quan trọng
+scenario: kịch bản
+encounter: bắt gặp
+restrict: hạn chế
+instruction: hướng dẫn
+characteristic: đặc điểm
+latency: độ trễ
+secure: bền vững, chắc chắn
+basis: nền tảng
+acceleration: sự tăng tốc
+conclude: kết luận
+convince: thuyết phục
+straight: chân thật, thành thật
+reinforce: củng cố
+proportional: tỷ lệ thuận, cân đối
+identical: giống nhau
+nested: lồng vào nhau
+dominant: trọng yếu
+spread: trải rộng/dài
+iterate: lặp lại
+concise: ngắn gọn
+so far: cho đến nay
+have to: phải (làm gì đó)
+obvious: rõ ràng
+terminology: thuật ngữ
+emphasize: nhấn mạnh
+separate: tách rời, riêng biệt
+isolate: cô lập
+cluster: cụm, nhóm lại
+integrate: tích hợp
+reliable: đáng tin cậy
+appliance: thiết bị
+accelerate: đẩy nhanh
+repeatability: khả năng lặp lại
+resizable: có thể thay đổi kích thước
+independently: một cách độc lập
+retention: giữ lại, sự duy trì
+force: bắt buộc
+durability: lâu dài
+likelihood: khả năng xảy ra
+elastic: co dãn, đàn hồi
+waistband: dây thắt lưng
+retain: giữ lại
+prove: chứng tỏ, chứng minh
+correspond: tương ứng với
+compatible: tương thích
+reject: loại bỏ, từ chối
+match: so khớp, trận đấu
+reliable: đáng tin cậy
+establish: thiết lập
+arguably: được cho là
+sector: lĩnh vực, khu vực
+baseline: cơ sở
+judge: đánh giá
+intuitive: trực giác
+calibrate: hiệu chỉnh
+make sense: có ý nghĩa, dễ hiểu
+practical: thực tiễn, thực dụng, thiết thực
+considerably: đáng kể
+reduce: giảm
+trace: dấu vết
+observation: sự quan sát
+make sense: hợp lý, thuận tiện, có ý nghĩa
+persist: +only= chỉ tồn tại
+interpretation: lý giải
+persistency: bền vững
+business: công việc, nghiệp vụ, quyền, doanh nghiệp
+vital: thiết yếu
+motivation: động lực, sự trình bày
+depict: miêu tả
+initially: ban đầu
+innovation: sự đổi mới
+evolve: phát triển
+acquisition: sự thu thập
+simultaneous: đồng thời
+familiarity: sự quen thuộc
+crucial: quan trọng, chủ yếu, quyết định
+integrity: sự toàn vẹn
+motivate: trình bày
+combination: sự kết hợp
+typical: đặc trưng
+adopt: áp dụng, thông qua
+mandatory: bắt buộc
+plethora: số lượng rất lớn
+expound: giải nghĩa, giảng giải
+demonstrate: chứng minh, chứng tỏ
+equivalency: tương đương
+overuse: lạm dụng
+borrow: mượn, vay
+denote: chứng tỏ, chỉ rõ
+faculty: giảng viên
+appreciate: biết rõ, đánh giá cao
+novice: người mới
+business situation: tình huống nghiệp vụ
+violation: sự vi phạm
+precise: rõ ràng, đúng, tỉ mỉ
+omission: thiếu xót
+cardinality: lượng số
+consistency: nhất quán
+articulate: nói rõ
+inspect: quan sát
+detect: phát hiện
+eliminate: loại bỏ
+redundant: dư thừa
+emphasize: nhấn mạnh
+resolve: giải quyết
+utilize: dùng, sử dụng
+specialization: chuyên môn
+generic: chung
+variable: biến đổi, bất định
+commonality: điểm chung
+exploit: khai thác
+conclusion: kết quả, kết luận
+infer: suy luận, kết luận
+manipulate: vận dụng, điều khiển
+instructor: người hướng dẫn
+conventional: thông thường
+confidence: lòng tin, tín nhiệm
+redundancy: dư thừa
+clerk: thư ký
+anticipate: đoán trước, biết trước
+manner: phương pháp, thái độ, thói quen
+isolation: sự cô lập, sự cách ly
+integrety: sự toàn vẹn
+constraint: sự ràng buộc, sự hạn chế
+analogy: sự tương tự, sự giống nhau
+unary: đơn nguyên
+form : tạo ra
+narrative: trần thuật
+preference: sự ưu tiên
+utility: lợi ích, hữu dụng
+indication: dấu hiệu, biểu lộ, sự trình bày
+strive: cố gắng
+precisely: đúng đắn, tỉ mỉ
+preliminary: sơ bộ, dự trù
+refine: tinh chỉnh, lọc
+feasible: khả thi
+alternative: luân phiên, thay thế
+generation: thế hệ
+simplification: đơn giản hóa
+prominent: nổi bật
+contract: rút ngắn, hợp đồng, ký kết
+specification: sự chỉ rõ, đặc điểm, chi tiết
+revision: ôn tập
+placement: tuyển dụng
+participation: sự tham gia
+undergone: trải qua
+evolution: sự tiến hóa, sự phát triển
+dominate: thống trị
+exposure: phơi bày
+methodology: phương pháp luận
+realistic: thực tế, thực tại
+grammar: cú pháp
+occasionally: thỉnh thoảng, đôi khi
+elicitation: sự khám phá
+produce: trình bày, sản xuất
+context: ngữ cảnh, bối cảnh
+refinement: sàng lọc
+subtle: khó mô tả
+anomaly: dị thường
+tangible: hữu hình
+internal: nội bộ
+convention: quy ước
+accuracy: sự chính xác
+completeness: đầy đủ
+referential: tham chiếu
+falsification: sự làm giả
+normative: quy chuẩn
+ambiguous: không rõ ràng, mơ hồ
+equilateral: đều (cạnh)
+isosceles: cân
+scalene: không cân
+occupation: nghề nghiệp
+parenthetical: dấu ngoặc đơn
+truncate: cắt bớt, bỏ bớt
+respective: tương ứng
+vice versa: ngược lại
+clause: mệnh đề
+aggregate: tổng hợp, tập hợp
+underneath: bên dưới
+sort: phân loại
+median: trung bình, trung tuyến
+anomalous: dị thường
+deploy: triển khai
+operator: toán tử
+operate: hoạt động
+form: thiết lập
+predicate: thuộc tính, tính chất
+subscript: chỉ số dưới
+prentheses: ngoặc đơn
+predict: dự đoán
