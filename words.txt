@@ -121,7 +121,7 @@ overhead: chi phí
 ownership: quyền sở hữu
 paradigm: mô hình
 parallel: song song
-parse: phân tích cú pháp
+parse: phân tách
 pattern: mô hình
 permanent: dài hạn
 period: giai đoạn
@@ -432,3 +432,16 @@ predicate: thuộc tính, tính chất
 subscript: chỉ số dưới
 prentheses: ngoặc đơn
 predict: dự đoán
+abort: hủy bỏ
+scalar: vô hướng
+deprecated: không dùng nữa
+distinct: khác nhau, riêng biệt
+probability distribution: phân phối xác suất
+wand: đũa phép
+contest: cuộc thi
+consecutive: liên tiếp
+coin: đặt ra
+convey: truyền tải, chuyên chở
+resemble: giống, giống nhau
+falsify: kiểm chứng
+interpreter: trình thông dịch, thông dịch viên
