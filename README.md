@@ -29,9 +29,7 @@ __3. Các tính năng của chương trình__
 
 >**3.** Search a word
 
->**4.** Edit a word
-
->**5.** Delete a word
+>**4.** Delete a word
 
 __4. Hướng dẫn sử dụng chương trình__
 
