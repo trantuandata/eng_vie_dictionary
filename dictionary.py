@@ -33,16 +33,20 @@ class HashTable:
         parent_list = self.data_list[key_index]
         find_result = self._find_in_parent(parent_list, key)
 
-        if find_result is not None:
-            [index, _] = find_result
-            parent_list.pop(index)
+        if find_result is None:
+            return 'The word is not exist!'
+        [index, _] = find_result
+        parent_list.pop(index)
+        return 'The word is removed!'
+
+            
     
     def get(self, key):
         key_index = self._get_index(key)
         parent_list = self.data_list[key_index]
         find_result = self._find_in_parent(parent_list, key)
         if find_result is None:
-            return 'Not found'
+            return 'Not found!'
         [_,value] = find_result
         return value
 
@@ -91,19 +95,10 @@ def searchWord():
     word = input('Enter a word: ')
     return print(ht.get(word))
 
-#Choice 4: Edit a word
-def editWord():
-    print(ht.data_list[1])
-    # input_word = input('Enter a word: ')
-    # for word in ht.data_list[0]:
-    #     if word == input_word:
-    #         print('Old data:', ht.data_list[1])
-    #         ht.data_list[1].update(input('Enter the new data: '))
-
-#Choice 5: Delete a word
+#Choice 4: Delete a word
 def deleteWord():
     word = input('Enter a word: ')
-    return ht.remove(word)
+    return print(ht.remove(word))
 
 # Menu
 def menu():
@@ -113,11 +108,10 @@ Person Tree:
 1. Load the data from the file.
 2. Insert a new word.
 3. Search a word
-4. Edit a word
-5. Delete a word
+4. Delete a word
 +-----------------------------------------.+
 Your selection: """
-    OPERATION = [0, loadData, addNewWords, searchWord, editWord,deleteWord]
+    OPERATION = [0, loadData, addNewWords, searchWord, deleteWord]
     while True:
         select = int(input(MENU_SHOW).strip())
         try:
